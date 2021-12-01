@@ -1,0 +1,28 @@
+{
+  "foodItems": [
+    {
+      "name": "Idli",
+      "id": 1234,
+      "description": "Idli is a south Indian Breakfast item",
+      "recipe": "Idli Recipe: Soak 1 cup urad dal and 3 cups idli rava over night. Grind the dal and then mix the rava in it. Let it ferment for 8 hours. Then pour the mixture in idli stand and cook for 15-20 mins on steam. Idli will be ready."
+    },
+    {
+      "name": "Dosa",
+      "id": 1235,
+      "description": "Dosa is a south Indian Breakfast item",
+      "recipe": "Dosa Recipe: Soak 1 cup urad dal and 3 cups rice over night. Grind the dal and rice together. Let it ferment for 8 hours. Then pour the mixture on tava and cook on both sides. Dosa will be ready."
+    },
+    {
+      "name": "Wada",
+      "id": 1236,
+      "description": "Wada is a south Indian Breakfast item",
+      "recipe": "Wada Recipe: Soak 1 cup urad dal for 4 hours. Grind the dal. Keep it in refrigirator for 10 mins. Make Wada shapes and fryin oil till golden color. Wada will be ready."
+    },
+    {
+      "name": "Poori",
+      "id": 1237,
+      "description": "Poori is a south Indian Breakfast item",
+      "recipe": "Poori Recipe: Take 1 cup wheat flour and mix with water to make dough. Rest the dough for 30 mins. Make pooris and fry in Oil. Poori will be ready"
+    }
+  ]
+}
